@@ -39,6 +39,6 @@
 ###最終
 - The Glorious Glasgow Haskell Compilation System, version 8.6.5
 - stack 1.9.3 x86_64
-- SuperCollider 3.10.2.
+- SuperCollider 3.10.2
 - Atom 1.37.0 x64
   - tidalcycles 3.0.0 
