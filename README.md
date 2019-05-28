@@ -36,7 +36,7 @@
 - SuperCollider → Language → Recompile Class Library とかもした
 - どっかにあった`cabal install tidal`したら鳴った
 
-###最終
+### 最終
 - The Glorious Glasgow Haskell Compilation System, version 8.6.5
 - stack 1.9.3 x86_64
 - SuperCollider 3.10.2
