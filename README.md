@@ -37,6 +37,11 @@
 - どっかにあった`cabal install tidal`したら鳴った(AtomもVSCodeも)
   - Atomは行にいって command + enter
   - VSCodeは行にいって shift + enter
+  
+### 次からは
+- `SuperDirt.start`と書いてる`.scd`ファイルを`SuperCollider`で開き、その行にいって command + enter
+- なんかバーってでてとまる
+- VSCodeでやりたい行にいって shift + enter
 
 ### 最終
 - The Glorious Glasgow Haskell Compilation System, version 8.6.5
